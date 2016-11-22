@@ -1,1 +1,1 @@
-# awesome-ml-blogs
+# This repo curates useful blogs about Machine Learning
